@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.ZString", "Serilog.ZString\Serilog.ZString.csproj", "{472DF574-8F5F-4241-A530-817A4C0F09DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.ZString.CodeGeneration", "Serilog.ZString.CodeGeneration\Serilog.ZString.CodeGeneration.csproj", "{6DA36850-5CBD-4075-99CD-343AC1A9EE06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{472DF574-8F5F-4241-A530-817A4C0F09DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{472DF574-8F5F-4241-A530-817A4C0F09DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{472DF574-8F5F-4241-A530-817A4C0F09DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA36850-5CBD-4075-99CD-343AC1A9EE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA36850-5CBD-4075-99CD-343AC1A9EE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA36850-5CBD-4075-99CD-343AC1A9EE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA36850-5CBD-4075-99CD-343AC1A9EE06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
