@@ -2,8 +2,18 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
+        <ImplicitUsings>disable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Authors>LambdaTheDev</Authors>
+        <Description>Library that provides ZString power into Serilog library.</Description>
+        <Copyright>LambdaTheDev</Copyright>
+        <PackageProjectUrl>https://github.com/LambdaTheDev/Serilog.ZString</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/LambdaTheDev/Serilog.ZString/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/LambdaTheDev/Serilog.ZString</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>serilog,zstring,logging,performance</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
