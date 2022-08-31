@@ -5,7 +5,7 @@
         <ImplicitUsings>disable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageVersion>0.0.1</PackageVersion>
+        <PackageVersion>0.1.0</PackageVersion>
         <Authors>LambdaTheDev</Authors>
         <Description>Library that provides ZString power into Serilog library.</Description>
         <Copyright>LambdaTheDev</Copyright>
